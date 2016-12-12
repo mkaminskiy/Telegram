@@ -1,0 +1,2 @@
+token ='249196427:AAGJ-EXEbDiUx6cmF1EPwriMaoWS2mx8JDA'
+chat_id = 98018110
